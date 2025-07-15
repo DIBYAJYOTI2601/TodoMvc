@@ -5,4 +5,7 @@
         consoel.cnsiucyysckf
     }
 }
+<<<<<<< HEAD
 this is a change from feature branch
+=======
+>>>>>>> 6c92aac78b34d2b6ce7fb1df3e4a2c0185e678e1
