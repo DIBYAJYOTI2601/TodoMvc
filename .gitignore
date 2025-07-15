@@ -1,0 +1,15 @@
+.vs/
+*.user 
+*.suo
+*.userosscache
+*.sln.docstates
+*.sln.ide
+*.sln.cache
+bin/
+
+obj/
+publish/
+*.dbmdl
+out/
+*.log
+appsetting.json
